@@ -1,0 +1,11 @@
+APP_PORT = :8001
+DB_USERNAME = root
+DB_PASSWORD =
+DB_HOST = localhost
+DB_PORT = 3306
+DB_NAME =
+DB_ADDRESS = localhost
+
+
+
+
